@@ -1,8 +1,6 @@
 
 # **SO-NAT**: Systematic Optimization and Neural Architecture Training
 
-## Overview
-
 **SO-NAT** is an advanced, high-performance framework designed by Allobiter for the autonomous systematic training and optimization of AI models. It integrates cutting-edge techniques in Machine Learning, Deep Learning and Neural Network architecture, enabling users to effortlessly train, fine-tune and deploy models for a wide range of applications. **SO-NAT** automates the intricate processes of dataset handling, model selection, training and optimization, providing a seamless experience for both beginners and experts in the field of Machine Learning and Artificial Intelligence.
 
 ## Features
